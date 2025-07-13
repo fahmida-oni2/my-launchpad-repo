@@ -76,3 +76,28 @@ nav button{
     text-decoration: white;
     border-radius: 10px;
 }
+.sec-btn:hover{
+    background-color: aqua;
+}
+/* action part style */
+.action-section{
+    display: flex;
+    gap: 220px;
+}
+.live-part{
+    margin: 116px auto auto 141px;
+}
+.img-sec1{
+    margin: 116px 159px auto auto;
+    border-radius: 45px}
+.action-btn{
+    width: 229px ;
+    height: 48px;
+    color: white;
+    background-color: blue;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: white;
+    border-radius: 10px;
+}
+/* productive user part */
