@@ -48,6 +48,7 @@ nav button{
     font-size: 16px;
     text-decoration: white;
     border-radius: 10px;
+    border: none;
     
 }
 .button:hover{
@@ -75,6 +76,7 @@ nav button{
     font-size: 16px;
     text-decoration: white;
     border-radius: 10px;
+    border: none;
 }
 .sec-btn:hover{
     background-color: aqua;
@@ -99,5 +101,40 @@ nav button{
     font-size: 16px;
     text-decoration: white;
     border-radius: 10px;
+    border: none;
+}
+.action-btn:hover{
+    background-color: aqua;
 }
 /* productive user part */
+.pro-users{
+    background-color:powderblue;
+    align-content: center;
+    margin: 116px 159px auto 141px;
+    padding: 50px 142px ;
+    border-radius: 20px;
+
+}
+.quantity{
+    display: flex;
+    gap: 178px;
+    text-align: center;
+    margin-left: 50px;
+   
+}
+.number{
+  font-weight: bold;
+    font-size: 80px;
+    color: blue;
+    margin-bottom: 0px;
+}
+.comment{
+    font-size: 20;
+    color: #000000;
+}
+
+.inter{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
