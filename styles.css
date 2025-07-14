@@ -138,3 +138,39 @@ nav button{
   font-optical-sizing: auto;
   font-style: normal;
 }
+.reviewer-details{
+    display: flex;
+    gap: 12px;
+}
+.designer-feedback{
+    display: flex;
+    gap: 40px;
+    border-radius: 10px;
+    margin: auto 142px auto 142px ;
+    padding: 24px ;
+}
+.feedback{
+    background-color: white;
+   box-shadow: black;
+   padding: 24px;
+}
+.circle-img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.name-date{
+    display: block;
+    gap: 0%;
+    font-weight: 700;
+    font-size: 16px;
+}
+.feedback-h3{
+    font-weight: 700;
+    font-size: 24px;
+}
+.feedback-h4{
+    font-weight: 600;
+    font-size: 16px;
+}
+
