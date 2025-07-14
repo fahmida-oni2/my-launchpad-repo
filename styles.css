@@ -20,7 +20,7 @@ nav{
 }
  nav h1{
    color: blue;
-   font-weight: bolder;
+   font-weight: 900;
    font-size: 34px;
    margin: 100px auto 100px 150px;
 }
@@ -147,7 +147,7 @@ nav button{
     display: flex;
     gap: 40px;
     border-radius: 10px;
-    margin: auto 142px auto 142px ;
+    margin: auto 142px auto 200px ;
     padding: 24px ;
 }
 .feedback{
@@ -178,7 +178,7 @@ nav button{
 .touch-section{
     display: flex;
     gap: 115px;
-    margin: auto 150px auto 141px;
+    margin: auto 150px auto 130px;
 }
 .title-sec{
     font-weight: bold;
@@ -206,6 +206,7 @@ nav button{
     font-weight: bold;
     font-size: 18px;
     color: black;
+    margin-bottom: 10px;
 }
 .touch-btn{
     height: 62px;
