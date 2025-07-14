@@ -138,6 +138,7 @@ nav button{
   font-optical-sizing: auto;
   font-style: normal;
 }
+/* reviewer part */
 .reviewer-details{
     display: flex;
     gap: 12px;
@@ -173,4 +174,50 @@ nav button{
     font-weight: 600;
     font-size: 16px;
 }
-
+/* touch section */
+.touch-section{
+    display: flex;
+    gap: 115px;
+    margin: auto 150px auto 141px;
+}
+.title-sec{
+    font-weight: bold;
+    font-size: 97px;
+    color: black;
+    margin: 210px auto 200px auto;
+}
+.form{
+    margin: 81px auto 200px auto;
+    
+}
+.form input[type="text"], .form input[type="email"]{
+    display: block;
+    height: 70px;
+    width: 497px;
+    border-radius: 10px;
+    padding-left:20px ;
+    font-weight: 400;
+    font-size: 20px;
+    color: #000000;
+    border: none;
+    
+}
+.form label{
+    font-weight: bold;
+    font-size: 18px;
+    color: black;
+}
+.touch-btn{
+    height: 62px;
+    width: 520px;
+    color: white;
+    background-color: blue;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: white;
+    border-radius: 10px;
+    border: none;
+}
+.touch-btn:hover{
+    background-color: aqua;
+}
